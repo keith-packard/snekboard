@@ -1,0 +1,35 @@
+Boost regulator for motors
+	Diodes Inc PAM2423
+
+Switchable between 9V and 4.5V.
+Could just do this in SW by adjusting the PWM?
+Or globally by changing power supply?
+
+Use DRV8838 chips or perhaps switch to TB6612FN. The latter would
+require logic to convert from dir+pwm to pwm+pwm, or more pwm outputs,
+the former only goes to 10.5V
+
+Use 2Ah lipo cell or 900mAh? The sparkfun 2Ah is 7cm x 5cm x 7mm, our
+usual 900mAh one is 6x3x.5
+
+Switches
+
+Power
+ * Slide switch
+ * high current capacity (3A min).
+ * PC mount
+
+	CK switches L102011MS02Q (single pole, double throw, PC mount with silver contacts)
+
+Reset
+ * Tactile switch
+ * SPST or better
+ * SMT
+
+	C&K switches  PTS645SM43SMTR92
+		      |---------------- PTS645 series
+			    |---------- straight termination
+			     |--------- 160g force
+			      ||------- 4.3mm high
+			        ||||||- SMT, tape and reel
+

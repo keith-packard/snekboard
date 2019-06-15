@@ -1,0 +1,12 @@
+partslist*
+snekboard.cmd
+snekboard.drc
+snekboard.net
+snekboard.g*
+snekboard.*.*
+*.zip
+*.csv
+*.bom
+*.fab
+*.ncd
+*.xy
