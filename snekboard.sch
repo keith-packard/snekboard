@@ -816,13 +816,6 @@ value=NoConnection
 T 51300 53100 5 10 0 0 0 0 1
 device=DRC_Directive
 }
-C 51300 51900 1 0 0 nc-left.sym
-{
-T 51300 52300 5 10 0 0 0 0 1
-value=NoConnection
-T 51300 52700 5 10 0 0 0 0 1
-device=DRC_Directive
-}
 C 51100 44400 1 180 0 switch-spst.sym
 {
 T 50655 44495 5 10 1 1 0 0 1
@@ -1298,3 +1291,38 @@ refdes=R12
 T 57950 44600 5 10 1 1 0 0 1
 value=1k
 }
+C 45700 46900 1 0 0 sk6812.sym
+{
+T 90200 78955 5 10 0 1 0 0 1
+footprint=sk6812
+T 45995 48495 5 10 1 1 0 0 1
+refdes=U10
+}
+C 47700 46900 1 0 0 sk6812.sym
+{
+T 92200 78955 5 10 0 1 0 0 1
+footprint=sk6812
+T 47995 48495 5 10 1 1 0 0 1
+refdes=U11
+}
+C 48700 46600 1 0 1 gnd.sym
+C 46700 46600 1 0 1 gnd.sym
+C 46800 48700 1 0 1 vcc.sym
+C 48800 48700 1 0 1 vcc.sym
+C 50000 47700 1 0 1 nc-left.sym
+{
+T 50000 48100 5 10 0 0 0 6 1
+value=NoConnection
+T 50000 48500 5 10 0 0 0 6 1
+device=DRC_Directive
+}
+N 51800 52000 50200 52000 4
+{
+T 50300 52100 5 10 1 1 0 0 1
+netname=neopixel
+}
+N 50200 52000 50200 50100 4
+N 50200 50100 45600 50100 4
+N 45600 50100 45600 47800 4
+N 45600 47800 45700 47800 4
+N 47700 47800 47500 47800 4
