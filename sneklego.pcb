@@ -863,7 +863,7 @@ Via[378.00mil 358.00mil 36.00mil 20.00mil 0.0000 20.00mil "" "thermal(2S)"]
 Via[961.00mil 1328.00mil 60.00mil 20.00mil 0.0000 35.00mil "" "thermal(2S)"]
 Via[1125.00mil 1325.00mil 60.00mil 20.00mil 0.0000 35.00mil "" "thermal(2S)"]
 
-Element["" "DO-214AC" "D5" "CBDA540" 1365.00mil 24.1390mm 135.00mil 75.00mil 3 100 ""]
+Element["" "DO-214AC" "D5" "CBDA540" 1365.00mil 24.1390mm 116.00mil 106.00mil 3 100 ""]
 (
 	Pad[0.0000 -102.36mil 0.0000 -66.93mil 68.90mil 12.00mil 74.90mil "1" "1" "square"]
 	Pad[0.0000 66.93mil 0.0000 102.36mil 68.90mil 12.00mil 74.90mil "2" "2" "square,edge2"]
@@ -875,7 +875,7 @@ Element["" "DO-214AC" "D5" "CBDA540" 1365.00mil 24.1390mm 135.00mil 75.00mil 3 1
 
 	)
 
-Element["" "0805" "C21" "10uF" 914.00mil 32.0149mm -113.50mil 27.93mil 1 100 ""]
+Element["" "0805" "C21" "10uF" 914.00mil 32.0149mm 28.50mil -3.9316mm 3 100 ""]
 (
 	Pad[-3.93mil 35.43mil 3.93mil 35.43mil 51.18mil 20.00mil 57.18mil "1" "1" "square"]
 	Pad[-3.93mil -35.43mil 3.93mil -35.43mil 51.18mil 20.00mil 57.18mil "2" "2" "square"]
@@ -884,7 +884,7 @@ Element["" "0805" "C21" "10uF" 914.00mil 32.0149mm -113.50mil 27.93mil 1 100 ""]
 
 	)
 
-Element["" "0805" "C26" "10uF" 38.7713mm 1016.00mil 27.93mil 113.50mil 2 100 ""]
+Element["" "0805" "C26" "10uF" 38.7713mm 1016.00mil -2.6870mm -92.50mil 0 100 ""]
 (
 	Pad[35.43mil -3.93mil 35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "1" "1" "square"]
 	Pad[-35.43mil -3.93mil -35.43mil 3.93mil 51.18mil 20.00mil 57.18mil "2" "2" "square"]
@@ -893,21 +893,21 @@ Element["" "0805" "C26" "10uF" 38.7713mm 1016.00mil 27.93mil 113.50mil 2 100 ""]
 
 	)
 
-Element["" "0402" "C22" "1uF" 970.00mil 31.9212mm -113.50mil 47.24mil 1 100 ""]
+Element["" "0402" "C22" "1uF" 970.00mil 31.9212mm 28.50mil -130.72mil 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C18" "4.7uF" 355.00mil 46.2468mm -1.1092mm -2.1735mm 0 100 ""]
+Element["" "0402" "C18" "4.7uF" 355.00mil 46.2468mm 1.0117mm -2.9314mm 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "SOT23-5" "U4" "MCP73831" 275.00mil 1840.00mil -182.40mil -19.36mil 0 89 ""]
+Element["" "SOT23-5" "U4" "MCP73831" 275.00mil 1840.00mil -174.40mil -13.36mil 0 89 ""]
 (
 	Attribute("author" "DJ Delorie")
 	Attribute("copyright" "2006 DJ Delorie")
@@ -925,14 +925,14 @@ Element["" "SOT23-5" "U4" "MCP73831" 275.00mil 1840.00mil -182.40mil -19.36mil 0
 
 	)
 
-Element["" "0402" "R7" "2.49k" 6.7752mm 1712.00mil 0.8654mm -0.5799mm 0 100 ""]
+Element["" "0402" "R7" "2.49k" 6.7752mm 1712.00mil 0.6622mm -0.7069mm 0 100 ""]
 (
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C19" "4.7uF" 50.74mil 1654.00mil -47.93mil -123.50mil 0 100 ""]
+Element["" "0402" "C19" "4.7uF" 50.74mil 1654.00mil -31.93mil -77.50mil 0 100 ""]
 (
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -949,7 +949,7 @@ Element["" "0605" "D4" "dualLED" 225.00mil 1657.00mil -0.8173mm -2.2935mm 0 100 
 
 	)
 
-Element["" "0402" "R5" "1k" 296.00mil 42.1828mm 27.50mil -29.24mil 0 100 ""]
+Element["" "0402" "R5" "1k" 296.00mil 42.1828mm 2.0955mm -0.6919mm 3 100 ""]
 (
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -963,7 +963,7 @@ Element["" "0402" "R6" "1k" 5.2136mm 1712.00mil -2.2941mm -0.7859mm 0 100 ""]
 
 	)
 
-Element["" "pts645" "S2" "unknown" 130.58mil 1294.50mil 5.00mil 165.00mil 3 100 ""]
+Element["" "pts645" "S2" "unknown" 130.58mil 1294.50mil -112.08mil -255.08mil 0 100 ""]
 (
 	Pad[88.58mil -161.42mil 88.58mil -151.57mil 51.18mil 12.00mil 57.18mil "1" "1" "square"]
 	Pad[88.58mil 151.57mil 88.58mil 161.42mil 51.18mil 12.00mil 57.18mil "1" "1" "square,edge2"]
@@ -986,28 +986,28 @@ Element["" "powerdi123" "D2" "unknown" 668.60mil 1492.00mil 115.00mil -26.00mil 
 
 	)
 
-Element["" "0402" "R3" "10k" 287.00mil 29.2796mm 101.50mil -52.76mil 3 100 ""]
+Element["" "0402" "R3" "10k" 287.00mil 29.2796mm 76.50mil -26.76mil 3 100 ""]
 (
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C17" "0.1uF" 3.3086mm 1069.00mil -0.9820mm 42.10mil 0 100 ""]
+Element["" "0402" "C17" "0.1uF" 3.3086mm 1069.00mil 1.0246mm -27.90mil 0 100 ""]
 (
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C4" "0.1uF" 602.00mil 717.00mil -31.50mil 101.28mil 1 100 ""]
+Element["" "0402" "C4" "0.1uF" 602.00mil 717.00mil 24.50mil -112.28mil 3 100 ""]
 (
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C5" "0.1uF" 20.9870mm 400.00mil 2.6858mm 20.00mil 2 100 ""]
+Element["" "0402" "C5" "0.1uF" 20.9870mm 400.00mil 0.9586mm -33.00mil 0 100 ""]
 (
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1047,14 +1047,14 @@ Element["" "0402" "C2" "0.33uF" 1581.00mil 45.0784mm 25.50mil 0.6817mm 3 100 ""]
 
 	)
 
-Element["" "0402" "R1" "33" 708.00mil 891.74mil 0.3805mm 0.7615mm 1 100 ""]
+Element["" "0402" "R1" "33" 708.00mil 891.74mil 1.8547mm -0.6721mm 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "R2" "33" 670.00mil 891.74mil -75.50mil 0.8489mm 1 100 ""]
+Element["" "0402" "R2" "33" 670.00mil 891.74mil -14.50mil -0.7595mm 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1073,7 +1073,7 @@ Element["" "l102" "S1" "unknown" 1165.00mil 1656.00mil 319.00mil -282.00mil 0 10
 
 	)
 
-Element["" "100mil8x3" "J1" "unknown" 942.00mil 170.00mil 465.00mil -80.00mil 2 100 ""]
+Element["" "100mil8x3" "J1" "unknown" 942.00mil 170.00mil 417.00mil -150.00mil 0 100 ""]
 (
 	Pin[350.00mil -100.00mil 69.50mil 12.00mil 75.50mil 38.00mil "1" "1" "square,edge2"]
 	Pin[350.00mil 0.0000 69.50mil 12.00mil 75.50mil 38.00mil "2" "2" "edge2,thermal(1X)"]
@@ -1124,7 +1124,7 @@ Element["" "2013499-1" "J5" "USBmicroB" 549.91mil 47.6527mm -146.51mil -6.2009mm
 
 	)
 
-Element["" "0-215079-4" "J4" "unknown" 170.00mil 775.00mil 0.0000 0.0000 3 100 ""]
+Element["" "0-215079-4" "J4" "unknown" 170.00mil 775.00mil -87.00mil 178.00mil 3 100 ""]
 (
 	Pin[-100.00mil 0.0000 46.00mil 12.00mil 52.00mil 31.50mil "pin1" "1" "square,thermal(2X)"]
 	Pin[0.0000 50.00mil 46.00mil 12.00mil 52.00mil 31.50mil "pin2" "2" ""]
@@ -1138,7 +1138,7 @@ Element["" "0-215079-4" "J4" "unknown" 170.00mil 775.00mil 0.0000 0.0000 3 100 "
 
 	)
 
-Element["" "0-215079-4" "J3" "unknown" 170.00mil 425.00mil 0.0000 0.0000 3 100 ""]
+Element["" "0-215079-4" "J3" "unknown" 170.00mil 425.00mil -86.00mil 183.00mil 3 100 ""]
 (
 	Pin[-100.00mil 0.0000 46.00mil 12.00mil 52.00mil 31.50mil "pin1" "1" "square,thermal(2X)"]
 	Pin[0.0000 50.00mil 46.00mil 12.00mil 52.00mil 31.50mil "pin2" "2" ""]
@@ -1152,7 +1152,7 @@ Element["" "0-215079-4" "J3" "unknown" 170.00mil 425.00mil 0.0000 0.0000 3 100 "
 
 	)
 
-Element["" "0-215079-4" "J6" "unknown" 1716.00mil 575.00mil 0.0000 0.0000 1 100 ""]
+Element["" "0-215079-4" "J6" "unknown" 1716.00mil 575.00mil 146.00mil -230.00mil 3 100 ""]
 (
 	Pin[100.00mil 0.0000 46.00mil 12.00mil 52.00mil 31.50mil "pin1" "1" "square,thermal(2X)"]
 	Pin[0.0000 -50.00mil 46.00mil 12.00mil 52.00mil 31.50mil "pin2" "2" ""]
@@ -1166,7 +1166,7 @@ Element["" "0-215079-4" "J6" "unknown" 1716.00mil 575.00mil 0.0000 0.0000 1 100 
 
 	)
 
-Element["" "0-215079-4" "J7" "unknown" 1716.00mil 925.00mil 0.0000 0.0000 1 100 ""]
+Element["" "0-215079-4" "J7" "unknown" 1716.00mil 925.00mil 147.00mil -231.00mil 3 100 ""]
 (
 	Pin[100.00mil 0.0000 46.00mil 12.00mil 52.00mil 31.50mil "pin1" "1" "square,thermal(2X)"]
 	Pin[0.0000 -50.00mil 46.00mil 12.00mil 52.00mil 31.50mil "pin2" "2" ""]
@@ -1208,7 +1208,7 @@ Element["" "c8x8" "C27" "470uF" 1657.00mil 1225.00mil 101.00mil -204.00mil 0 100
 
 	)
 
-Element["" "c8x8" "C20" "470uF" 650.00mil 1225.00mil 0.0000 0.0000 2 100 ""]
+Element["" "c8x8" "C20" "470uF" 650.00mil 1225.00mil -229.00mil -172.00mil 0 100 ""]
 (
 	Pad[100.39mil 0.0000 4.5499mm 0.0000 2.0000mm 12.00mil 84.74mil "1" "1" "square,edge2"]
 	Pad[-4.5499mm 0.0000 -100.39mil 0.0000 2.0000mm 12.00mil 84.74mil "2" "2" "square"]
@@ -1218,7 +1218,7 @@ Element["" "c8x8" "C20" "470uF" 650.00mil 1225.00mil 0.0000 0.0000 2 100 ""]
 
 	)
 
-Element["" "100mil2pin" "J10" "unknown" 1566.00mil 900.00mil -30.00mil -125.00mil 1 100 ""]
+Element["" "100mil2pin" "J10" "unknown" 1566.00mil 900.00mil 58.00mil -242.00mil 3 100 ""]
 (
 	Pin[0.0000 0.0000 70.00mil 15.00mil 85.00mil 38.00mil "1" "1" "square"]
 	Pin[0.0000 -100.00mil 70.00mil 15.00mil 85.00mil 38.00mil "2" "2" ""]
@@ -1229,7 +1229,7 @@ Element["" "100mil2pin" "J10" "unknown" 1566.00mil 900.00mil -30.00mil -125.00mi
 
 	)
 
-Element["" "100mil2pin" "J9" "unknown" 1566.00mil 549.00mil -30.00mil -125.00mil 1 100 ""]
+Element["" "100mil2pin" "J9" "unknown" 1566.00mil 549.00mil 59.00mil -216.00mil 3 100 ""]
 (
 	Pin[0.0000 0.0000 70.00mil 15.00mil 85.00mil 38.00mil "1" "1" "square"]
 	Pin[0.0000 -100.00mil 70.00mil 15.00mil 85.00mil 38.00mil "2" "2" ""]
@@ -1240,7 +1240,7 @@ Element["" "100mil2pin" "J9" "unknown" 1566.00mil 549.00mil -30.00mil -125.00mil
 
 	)
 
-Element["" "100mil2pin" "J8" "unknown" 320.00mil 800.00mil 30.00mil 125.00mil 3 100 ""]
+Element["" "100mil2pin" "J8" "unknown" 320.00mil 800.00mil -34.00mil -112.00mil 3 100 ""]
 (
 	Pin[0.0000 0.0000 70.00mil 15.00mil 85.00mil 38.00mil "1" "1" "square"]
 	Pin[0.0000 100.00mil 70.00mil 15.00mil 85.00mil 38.00mil "2" "2" ""]
@@ -1251,7 +1251,7 @@ Element["" "100mil2pin" "J8" "unknown" 320.00mil 800.00mil 30.00mil 125.00mil 3 
 
 	)
 
-Element["" "100mil2pin" "J2" "unknown" 320.00mil 450.00mil 30.00mil 125.00mil 3 100 ""]
+Element["" "100mil2pin" "J2" "unknown" 320.00mil 450.00mil -33.00mil -122.00mil 3 100 ""]
 (
 	Pin[0.0000 0.0000 70.00mil 15.00mil 85.00mil 38.00mil "1" "1" "square"]
 	Pin[0.0000 100.00mil 70.00mil 15.00mil 85.00mil 38.00mil "2" "2" ""]
@@ -1262,7 +1262,7 @@ Element["" "100mil2pin" "J2" "unknown" 320.00mil 450.00mil 30.00mil 125.00mil 3 
 
 	)
 
-Element["" "ABM8" "X1" "16MHz" 10.9370mm 6.6735mm -2.7987mm -1.0480mm 0 100 ""]
+Element["" "ABM8" "X1" "16MHz" 10.9370mm 6.6735mm -2.3415mm -131.26mil 0 100 ""]
 (
 	Pad[-36.42mil 40.34mil -36.42mil 50.19mil 41.34mil 20.00mil 47.34mil "2" "2" "square,edge2"]
 	Pad[-36.42mil -50.20mil -36.42mil -40.35mil 41.34mil 20.00mil 47.34mil "1" "1" "square"]
@@ -1272,21 +1272,21 @@ Element["" "ABM8" "X1" "16MHz" 10.9370mm 6.6735mm -2.7987mm -1.0480mm 0 100 ""]
 
 	)
 
-Element["" "0402" "C6" "18pF" 431.00mil 167.00mil -17.72mil 1.5865mm 0 100 ""]
+Element["" "0402" "C6" "18pF" 431.00mil 167.00mil -28.72mil -1.8933mm 0 100 ""]
 (
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C7" "18pF" 429.26mil 354.00mil -96.76mil -0.6985mm 0 100 ""]
+Element["" "0402" "C7" "18pF" 429.26mil 354.00mil -3.3213mm -0.7747mm 0 100 ""]
 (
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0603diode" "D1" "blue" 37.0736mm 170.00mil -2.5847mm -27.50mil 0 100 ""]
+Element["" "0603diode" "D1" "blue" 37.0736mm 170.00mil -24.76mil 19.50mil 0 100 ""]
 (
 	Pad[-25.59mil -4.92mil -25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "1" "1" "square"]
 	Pad[25.59mil -4.92mil 25.59mil 4.92mil 29.52mil 20.00mil 35.52mil "2" "2" "square"]
@@ -1296,28 +1296,28 @@ Element["" "0603diode" "D1" "blue" 37.0736mm 170.00mil -2.5847mm -27.50mil 0 100
 
 	)
 
-Element["" "0402" "R4" "1k" 39.6174mm 170.00mil 43.76mil -30.50mil 0 100 ""]
+Element["" "0402" "R4" "1k" 39.6174mm 170.00mil -27.24mil 20.50mil 0 100 ""]
 (
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "L600" "bead" 1138.00mil 605.26mil -37.50mil -40.24mil 1 100 ""]
+Element["" "0402" "L600" "bead" 1138.00mil 605.26mil 77.50mil -51.28mil 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C601" "1uF" 1100.00mil 636.74mil 0.9149mm 48.98mil 3 100 ""]
+Element["" "0402" "C601" "1uF" 1100.00mil 636.74mil 1.0927mm 33.98mil 3 100 ""]
 (
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C602" "0.1uF" 26.9626mm 636.74mil 18.50mil 41.50mil 3 100 ""]
+Element["" "0402" "C602" "0.1uF" 26.9626mm 636.74mil 18.50mil 33.50mil 3 100 ""]
 (
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1335,7 +1335,7 @@ Element["" "l8x8" "L1" "6.8uH" 1125.00mil 950.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "so-8ep" "U8" "unknown" 1125.00mil 1225.00mil 0.0000 0.0000 3 100 ""]
+Element["" "so-8ep" "U8" "unknown" 1125.00mil 1225.00mil -234.00mil -192.00mil 0 100 ""]
 (
 	Pad[0.0000 -17.50mil 0.0000 17.50mil 2.6129mm 12.00mil 2.7653mm "PAD" "PAD" "square"]
 	Pad[-112.17mil -75.00mil -84.49mil -75.00mil 31.57mil 12.00mil 37.57mil "1" "1" "square"]
@@ -1349,14 +1349,14 @@ Element["" "so-8ep" "U8" "unknown" 1125.00mil 1225.00mil 0.0000 0.0000 3 100 ""]
 
 	)
 
-Element["" "0402" "C24" "47pF" 1059.00mil 1361.00mil 92.76mil -43.98mil 3 100 ""]
+Element["" "0402" "C24" "47pF" 1059.00mil 1361.00mil 38.02mil -41.76mil 0 100 ""]
 (
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C23" "2.2nF" 26.9052mm 1401.00mil 32.76mil 27.81mil 3 100 ""]
+Element["" "0402" "C23" "2.2nF" 26.9052mm 1401.00mil 1.0554mm -0.6863mm 0 100 ""]
 (
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1370,7 +1370,7 @@ Element["" "0402" "C25" "10nF" 1293.00mil 30.0802mm 77.50mil -49.93mil 3 100 ""]
 
 	)
 
-Element["" "0402" "R9" "62k" 34.3596mm 1249.00mil 0.5527mm 0.3853mm 0 100 ""]
+Element["" "0402" "R9" "62k" 34.3596mm 1249.00mil 0.4003mm 0.3091mm 0 100 ""]
 (
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
@@ -1384,28 +1384,28 @@ Element["" "0402" "R10" "10k" 33.5600mm 1300.00mil -1.1595mm 0.3926mm 0 100 ""]
 
 	)
 
-Element["" "0402" "R8" "51k" 1009.00mil 35.0708mm -30.17mil -28.72mil 3 100 ""]
+Element["" "0402" "R8" "51k" 1009.00mil 35.0708mm -13.17mil -26.72mil 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C16" "0.1uF" 36.4556mm 795.00mil 112.50mil 81.50mil 2 100 ""]
+Element["" "0402" "C16" "0.1uF" 36.4556mm 795.00mil -0.2545mm 7.50mil 0 100 ""]
 (
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C15" "0.1uF" 1318.00mil 772.00mil 26.50mil 35.50mil 3 100 ""]
+Element["" "0402" "C15" "0.1uF" 1318.00mil 772.00mil -19.50mil -74.50mil 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "s-pwson-n8" "U7" "DRV8838" 1390.00mil 725.00mil 29.00mil -128.00mil 3 100 ""]
+Element["" "s-pwson-n8" "U7" "DRV8838" 1390.00mil 725.00mil -33.00mil -114.00mil 0 100 ""]
 (
 	Pad[0.0000 -13.78mil 0.0000 13.78mil 35.43mil 12.20mil 38.19mil "9" "9" "square,nopaste"]
 	Pad[0.0000 -10.94mil 0.0000 10.94mil 28.12mil 12.20mil 38.19mil "9" "9" "square"]
@@ -1425,21 +1425,21 @@ Element["" "s-pwson-n8" "U7" "DRV8838" 1390.00mil 725.00mil 29.00mil -128.00mil 
 
 	)
 
-Element["" "0402" "C14" "0.1uF" 1430.00mil 573.00mil 80.76mil -118.50mil 3 100 ""]
+Element["" "0402" "C14" "0.1uF" 1430.00mil 573.00mil 74.76mil -0.50mil 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C13" "0.1uF" 1318.00mil 535.74mil 25.50mil 34.02mil 3 100 ""]
+Element["" "0402" "C13" "0.1uF" 1318.00mil 535.74mil -14.50mil -37.98mil 3 100 ""]
 (
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "s-pwson-n8" "U6" "DRV8838" 1390.00mil 500.00mil 31.00mil -127.00mil 3 100 ""]
+Element["" "s-pwson-n8" "U6" "DRV8838" 1390.00mil 500.00mil -36.00mil -126.00mil 0 100 ""]
 (
 	Pad[0.0000 -13.78mil 0.0000 13.78mil 35.43mil 12.20mil 38.19mil "9" "9" "square,nopaste"]
 	Pad[0.0000 -10.94mil 0.0000 10.94mil 28.12mil 12.20mil 38.19mil "9" "9" "square"]
@@ -1459,7 +1459,7 @@ Element["" "s-pwson-n8" "U6" "DRV8838" 1390.00mil 500.00mil 31.00mil -127.00mil 
 
 	)
 
-Element["" "lqfp48" "U2" "unknown" 20.7601mm 618.89mil 0.0000 30.00mil 3 100 ""]
+Element["" "lqfp48" "U2" "unknown" 20.7601mm 618.89mil -5.2435mm -5.2125mm 0 100 ""]
 (
 	Pad[149.60mil -2.7498mm 185.03mil -2.7498mm 11.81mil 7.87mil 18.11mil "pin12" "12" "square,edge2"]
 	Pad[-185.04mil -2.7498mm -149.61mil -2.7498mm 11.81mil 7.87mil 18.11mil "pin25" "25" "square"]
@@ -1524,7 +1524,7 @@ Element["" "0402" "C12" "0.1uF" 429.74mil 755.00mil -38.98mil -76.50mil 0 100 ""
 
 	)
 
-Element["" "s-pwson-n8" "U5" "DRV8838" 460.00mil 851.00mil -28.00mil 125.00mil 1 100 ""]
+Element["" "s-pwson-n8" "U5" "DRV8838" 460.00mil 851.00mil 16.00mil 48.00mil 0 100 ""]
 (
 	Pad[0.0000 -13.78mil 0.0000 13.78mil 35.43mil 12.20mil 38.19mil "GND" "9" "square,nopaste"]
 	Pad[0.0000 -10.94mil 0.0000 10.94mil 28.12mil 12.20mil 38.19mil "GND" "9" "square"]
@@ -1539,14 +1539,14 @@ Element["" "s-pwson-n8" "U5" "DRV8838" 460.00mil 851.00mil -28.00mil 125.00mil 1
 
 	)
 
-Element["" "0402" "C11" "0.1uF" 506.00mil 777.74mil -25.50mil -53.02mil 1 100 ""]
+Element["" "0402" "C11" "0.1uF" 506.00mil 777.74mil 74.50mil -40.46mil 3 100 ""]
 (
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "s-pwson-n8" "U3" "DRV8838" 460.00mil 501.00mil -15.00mil 141.00mil 1 100 ""]
+Element["" "s-pwson-n8" "U3" "DRV8838" 460.00mil 501.00mil 15.00mil 50.00mil 0 100 ""]
 (
 	Pad[0.0000 -13.78mil 0.0000 13.78mil 35.43mil 12.20mil 38.19mil "GND" "9" "square,nopaste"]
 	Pad[0.0000 -10.94mil 0.0000 10.94mil 28.12mil 12.20mil 38.19mil "GND" "9" "square"]
@@ -1561,14 +1561,14 @@ Element["" "s-pwson-n8" "U3" "DRV8838" 460.00mil 501.00mil -15.00mil 141.00mil 1
 
 	)
 
-Element["" "0402" "C9" "0.1uF" 503.00mil 10.8900mm 17.50mil 25.76mil 1 100 ""]
+Element["" "0402" "C9" "0.1uF" 503.00mil 10.8900mm 71.50mil -0.5649mm 3 100 ""]
 (
 	Pad[-3.93mil -15.74mil 3.93mil -15.74mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-3.93mil 15.74mil 3.93mil 15.74mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
 
 	)
 
-Element["" "0402" "C10" "0.1uF" 429.74mil 415.00mil -1.0475mm -1.8933mm 0 100 ""]
+Element["" "0402" "C10" "0.1uF" 429.74mil 415.00mil 1.3909mm -1.8425mm 0 100 ""]
 (
 	Pad[15.74mil -3.93mil 15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "1" "1" "square"]
 	Pad[-15.74mil -3.93mil -15.74mil 3.93mil 19.68mil 20.00mil 25.68mil "2" "2" "square"]
