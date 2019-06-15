@@ -1,10 +1,10 @@
 # List all the schematics to be netlisted and laid out on the pc board
-schematics	sneklego.sch
+schematics	snekboard.sch
 
 # for an output-name of foo, gsch2pcb generates files foo.net, foo.pcb,
 # and foo.new.pcb.  if there is no output name specified, the file names
 # are derived from the first listed schematic...
-output-name	sneklego
+output-name	snekboard
 
 elements-dir ../altusmetrum/packages
 

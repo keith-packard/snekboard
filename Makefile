@@ -1,8 +1,8 @@
 # name of project, also used for PCB file
-PROJECT=sneklego
+PROJECT=snekboard
 
 # list of schematic files that make up this design
-SCHEMATICS=sneklego.sch
+SCHEMATICS=snekboard.sch
 
 # number of PCB layers
 LAYERS=2
