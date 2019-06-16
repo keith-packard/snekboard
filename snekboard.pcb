@@ -879,7 +879,7 @@ Via[1446.00mil 155.00mil 36.00mil 20.00mil 0.0000 20.00mil "" ""]
 Via[1382.00mil 245.00mil 36.00mil 20.00mil 0.0000 20.00mil "" "thermal(2S)"]
 Via[1489.00mil 92.00mil 36.00mil 20.00mil 0.0000 20.00mil "" "thermal(1S)"]
 
-Element["" "DO-214AC" "D5" "CBDA540" 1365.00mil 24.1390mm 116.00mil 106.00mil 3 100 ""]
+Element["" "DO-214AC" "D5" "CDBA540" 1365.00mil 24.1390mm 116.00mil 106.00mil 3 100 ""]
 (
 	Pad[0.0000 -102.36mil 0.0000 -66.93mil 68.90mil 12.00mil 74.90mil "1" "1" "square"]
 	Pad[0.0000 66.93mil 0.0000 102.36mil 68.90mil 12.00mil 74.90mil "2" "2" "square,edge2"]
@@ -988,7 +988,7 @@ Element["" "pts645" "S2" "unknown" 130.58mil 1294.50mil -112.08mil -255.08mil 0 
 
 	)
 
-Element["" "powerdi123" "D2" "unknown" 668.60mil 1492.00mil 115.00mil -26.00mil 0 100 ""]
+Element["" "powerdi123" "D2" "DFLS130L" 668.60mil 1492.00mil 115.00mil -26.00mil 0 100 ""]
 (
 	Pad[21.65mil 0.0000 53.15mil 0.0000 55.12mil 12.00mil 61.12mil "cathode" "2" "square,edge2"]
 	Pad[-62.99mil -9.84mil -62.99mil 9.84mil 35.43mil 12.00mil 41.43mil "anode" "1" "square"]
@@ -1030,7 +1030,7 @@ Element["" "0402" "C5" "0.1uF" 20.9870mm 400.00mil 0.9586mm -33.00mil 0 100 ""]
 
 	)
 
-Element["" "powerdi123" "D3" "unknown" 668.60mil 1578.00mil 114.00mil -31.00mil 0 100 ""]
+Element["" "powerdi123" "D3" "DFLS130L" 668.60mil 1578.00mil 114.00mil -31.00mil 0 100 ""]
 (
 	Pad[21.65mil 0.0000 53.15mil 0.0000 55.12mil 12.00mil 61.12mil "cathode" "2" "square,edge2"]
 	Pad[-62.99mil -9.84mil -62.99mil 9.84mil 35.43mil 12.00mil 41.43mil "anode" "1" "square"]
@@ -1351,7 +1351,7 @@ Element["" "l8x8" "L1" "6.8uH" 1125.00mil 950.00mil 0.0000 0.0000 0 100 ""]
 
 	)
 
-Element["" "so-8ep" "U8" "unknown" 1125.00mil 1225.00mil -234.00mil -192.00mil 0 100 ""]
+Element["" "so-8ep" "U8" "PAM2422" 1125.00mil 1225.00mil -234.00mil -192.00mil 0 100 ""]
 (
 	Pad[0.0000 -17.50mil 0.0000 17.50mil 2.6129mm 12.00mil 2.7653mm "PAD" "PAD" "square"]
 	Pad[-112.17mil -75.00mil -84.49mil -75.00mil 31.57mil 12.00mil 37.57mil "1" "1" "square"]
@@ -1621,7 +1621,7 @@ Element["" "0-215079-4" "J11" "unknown" 1782.00mil 160.00mil -230.00mil -146.00m
 
 	)
 
-Element["" "SOIJ8" "U9" "unknown" 184.00mil 110.00mil -161.61mil 96.63mil 0 100 ""]
+Element["" "SOIJ8" "U9" "W25Q16" 184.00mil 110.00mil -161.61mil 96.63mil 0 100 ""]
 (
 	Pad[-158.45mil 74.99mil -117.12mil 74.99mil 25.59mil 24.41mil 31.59mil "pin8" "8" "square"]
 	Pad[2.9751mm 74.99mil 158.46mil 74.99mil 25.59mil 24.41mil 31.59mil "pin1" "1" "square,edge2"]
