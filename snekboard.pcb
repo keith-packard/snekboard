@@ -1094,7 +1094,7 @@ Element["" "100mil8x3" "J1" "100mil8x3" 942.00mil 170.00mil 417.00mil -150.00mil
 
 	)
 
-Element["" "0-215079-4" "J4" "unknown" 70.00mil 925.00mil 147.00mil 29.00mil 3 100 ""]
+Element["" "0-215079-4" "J4" "Debug" 70.00mil 925.00mil 147.00mil 29.00mil 3 100 ""]
 (
 	Pin[100.00mil 0.0000 46.00mil 12.00mil 52.00mil 31.50mil "pin1" "1" "square,thermal(2X)"]
 	Pin[0.0000 -50.00mil 46.00mil 12.00mil 52.00mil 31.50mil "pin2" "2" ""]
@@ -1122,7 +1122,7 @@ Element["" "0-215079-4" "J3" "Debug" 70.00mil 575.00mil 147.00mil 35.00mil 3 100
 
 	)
 
-Element["" "0-215079-4" "J7" "unknown" 46.1221mm 425.00mil -2.2266mm -82.00mil 3 100 ""]
+Element["" "0-215079-4" "J7" "Debug" 46.1221mm 425.00mil -2.2266mm -82.00mil 3 100 ""]
 (
 	Pin[-100.00mil 0.0000 46.00mil 12.00mil 52.00mil 31.50mil "pin1" "1" "square,thermal(2X)"]
 	Pin[0.0000 50.00mil 46.00mil 12.00mil 52.00mil 31.50mil "pin2" "2" ""]
@@ -1592,7 +1592,7 @@ Element["" "100mil2pin" "J6" "100mil2pin" 315.00mil 900.00mil 24.00mil -32.00mil
 
 	)
 
-Element["" "0-215079-4" "J9" "unknown" 46.1221mm 775.00mil -88.00mil -81.00mil 3 100 ""]
+Element["" "0-215079-4" "J9" "Debug" 46.1221mm 775.00mil -88.00mil -81.00mil 3 100 ""]
 (
 	Pin[-100.00mil 0.0000 46.00mil 12.00mil 52.00mil 31.50mil "pin1" "1" "square,thermal(2X,3X)"]
 	Pin[0.0000 50.00mil 46.00mil 12.00mil 52.00mil 31.50mil "pin2" "2" ""]
@@ -1659,7 +1659,7 @@ Element["" "l201" "S1" "DPST" 1172.00mil 1663.60mil -28.00mil -35.20mil 0 100 ""
 
 	)
 
-Element["" "wqfn-16" "U3" "unknown" 475.00mil 483.00mil -107.00mil -110.00mil 0 100 ""]
+Element["" "wqfn-16" "U3" "DRV8800" 475.00mil 483.00mil -107.00mil -110.00mil 0 100 ""]
 (
 	Pin[24.79mil 24.79mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
 	Pin[-24.80mil 24.79mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
@@ -1700,7 +1700,7 @@ Element["" "wqfn-16" "U3" "unknown" 475.00mil 483.00mil -107.00mil -110.00mil 0 
 
 	)
 
-Element["" "wqfn-16" "U7" "unknown" 1424.00mil 686.00mil -106.00mil 54.00mil 0 100 ""]
+Element["" "wqfn-16" "U7" "DRV8800" 1424.00mil 686.00mil -106.00mil 54.00mil 0 100 ""]
 (
 	Pin[24.79mil -24.79mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
 	Pin[24.79mil 24.80mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
@@ -1741,7 +1741,7 @@ Element["" "wqfn-16" "U7" "unknown" 1424.00mil 686.00mil -106.00mil 54.00mil 0 1
 
 	)
 
-Element["" "wqfn-16" "U6" "unknown" 1424.00mil 405.00mil -114.00mil 47.00mil 0 100 ""]
+Element["" "wqfn-16" "U6" "DRV8800" 1424.00mil 405.00mil -114.00mil 47.00mil 0 100 ""]
 (
 	Pin[24.79mil -24.79mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
 	Pin[24.79mil 24.80mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
@@ -1782,7 +1782,7 @@ Element["" "wqfn-16" "U6" "unknown" 1424.00mil 405.00mil -114.00mil 47.00mil 0 1
 
 	)
 
-Element["" "wqfn-16" "U5" "unknown" 475.00mil 833.00mil -100.00mil -102.00mil 0 100 ""]
+Element["" "wqfn-16" "U5" "DRV8800" 475.00mil 833.00mil -100.00mil -102.00mil 0 100 ""]
 (
 	Pin[24.79mil 24.79mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
 	Pin[-24.80mil 24.79mil 27.00mil 25.00mil 0.0000 13.00mil "pin17" "17" "via,thermal(2S,3S)"]
