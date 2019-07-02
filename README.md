@@ -18,14 +18,13 @@ Arduino code.
  * Built-in USB battery charger. Charges at 800mA.
 
  * Automatic switching between USB and battery power using a
-   [TI TPS2121 power mux](http://www.ti.com/product/TPS2121)
+   [TI TPS2121 power mux](http://www.ti.com/product/TPS2121).
 
  * 3.3V 3A power supply. Plenty of current to support external
    devices.
 
  * 9V 4.5A boost power supply using a
-   [Diodes, Inc PAM2422 boost regulator]
-   (https://www.diodes.com/products/power-management/dc-dc-converters/integrated-power-stage/boost-converter/part/PAM2422).
+   [Diodes, Inc PAM2422 boost regulator](https://www.diodes.com/products/power-management/dc-dc-converters/integrated-power-stage/boost-converter/part/PAM2422).
    Lego Power functions all work on 9V, so
    this supply provides the required voltage without needing 6 1.5V cells.
 
