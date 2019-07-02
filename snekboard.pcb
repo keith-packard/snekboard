@@ -2548,9 +2548,9 @@ Layer(5 "outline" "outline")
 )
 Layer(6 "bottom silk" "silk")
 (
-	Text[1625.00mil 1416.00mil 2 150 "copyright ` 2019, keith packard" "clearline,onsolder"]
-	Text[1810.00mil 1519.00mil 2 150 "licensed under the tapr ohl (www.tapr.org)" "clearline,onsolder"]
-	Text[44.4114mm 34.3794mm 3 400 "SnekBoard" "clearline,onsolder"]
+	Text[1625.00mil 1392.00mil 2 150 "copyright ` 2019, keith packard" "clearline,onsolder"]
+	Text[1812.00mil 1598.00mil 2 150 "licensed under the tapr ohl (www.tapr.org)" "clearline,onsolder"]
+	Text[1495.00mil 923.00mil 2 400 "SnekBoard" "clearline,onsolder"]
 )
 Layer(7 "top silk" "silk")
 (
