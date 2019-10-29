@@ -10,4 +10,4 @@ LAYERS=2
 # sides with silkscreen, can be none|top|bottom|both
 SILK=both
 
-include ../altusmetrum/pcb.mk
+include pcb.mk

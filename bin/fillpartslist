@@ -1,0 +1,35 @@
+# expand tab-separated partslist, replacing unknown fields with data
+# from preferred parts list
+
+# Copyright 2015 by Bdale Garbee <bdale@gag.com>, GPL v3 
+
+BEGIN { 
+	PARTFILE = "preferred-parts"
+	partcount = 0
+	while (getline <PARTFILE > 0) {
+		partcount++
+		parts[$1, $2, $3] = $0
+	}
+}
+
+{
+	printf "%s\t%s\t%s\t%s", $1, $2, $3, $4
+	split(parts[$2,$3,$4],field,"\t")
+
+	if ( $5 == "unknown") printf "\t%s", field[4]
+	else printf "\t%s", $5
+
+	if ( $6 == "unknown") printf "\t%s", field[5]
+	else printf "\t%s", $6
+
+	if ( $7 == "unknown") printf "\t%s", field[6]
+	else printf "\t%s", $7
+
+	if ( $8 == "unknown") printf "\t%s", field[7]
+	else printf "\t%s", $8
+
+	if ( $9 == "unknown") printf "\t%s", field[8]
+	else printf "\t%s", $9
+
+	printf "\n"
+}

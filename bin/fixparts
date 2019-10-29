@@ -1,0 +1,22 @@
+# expand tab-separated partslist, replacing unknown fields with data
+# from preferred parts list
+
+# Copyright 2015 by Bdale Garbee <bdale@gag.com>, GPL v3 
+
+BEGIN { 
+	FS = "\t"
+	PARTFILE = "mouser-bits.txt"
+	while (getline <PARTFILE > 0) {
+		map[$1] = $2
+	}
+}
+
+{
+	if ($6 in map) {
+		$7 = "mouser"
+		$8 = map[$6]
+	}
+	for (i = 1; i < NF; i = i + 1)
+		printf("%s\t", $i);
+	printf("%s\n", $i);
+}
