@@ -674,7 +674,7 @@ refdes=C25
 T 59700 41000 5 10 0 0 90 0 1
 symversion=0.1
 T 60500 41000 5 10 1 1 0 0 1
-value=10nF
+value=0.22uF
 T 60600 40800 5 10 0 0 0 0 1
 footprint=0402
 }
@@ -1495,7 +1495,7 @@ C 66100 44000 1 0 0 vcc.sym
 C 66100 48800 1 0 0 vcc.sym
 C 66100 53600 1 0 0 vcc.sym
 C 66100 58400 1 0 0 vcc.sym
-C 53700 44000 1 0 0 opamp.sym
+C 53700 44000 1 0 0 opamp-3-1.sym
 {
 T 54800 45300 5 10 0 0 0 0 1
 device=IC
@@ -1518,7 +1518,7 @@ refdes=R14
 T 53300 44600 5 10 0 0 0 0 1
 footprint=0402
 T 53000 44900 5 10 1 1 0 6 1
-value=10k
+value=22k
 }
 C 53300 43700 1 90 0 resistor.sym
 {
@@ -1541,4 +1541,4 @@ N 54800 44400 54800 42000 4
 N 54800 42000 57700 42000 4
 N 57700 42000 57700 42100 4
 T 52600 45800 9 10 1 0 0 0 1
-Disable 9V supply below 3.5V
+Disable 9V supply below 3.75V
