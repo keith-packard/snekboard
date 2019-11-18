@@ -22,7 +22,7 @@ refdes=X1
 T 56800 54450 5 10 1 1 0 6 1
 value=16MHz
 T 57250 55150 5 10 0 1 0 6 1
-footprint=ABM8
+footprint=TSX-3225
 }
 C 57750 55400 1 0 1 capacitor.sym
 {
