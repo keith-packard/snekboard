@@ -74,7 +74,7 @@ $(PROJECT).bottom.gbr:	$(PROJECT).pcb $(CONFIG)
 	esac
 
 $(PROJECT).all-drill.cnc: $(PROJECT).bottom.gbr
-	gerbv -x drill -o $(PROJECT).all-drill.cnc $(PROJECT).plated-drill.cnc $(PROJECT).unplated-drill.cnc
+	gerbv -x drill -o $(PROJECT).all-drill.cnc $(PROJECT).*plated-drill.cnc
 
 zip: $(PROJECT).zip
 
