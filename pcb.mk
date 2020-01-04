@@ -268,7 +268,7 @@ SCHEMATICS_PS=$(SCHEMATICS:.sch=.ps)
 SCHEMATICS_PDF=$(SCHEMATICS:.sch=.pdf)
 
 $(PROJECT)-sch.pdf:	$(SCHEMATICS_PDF)
-	pdfjoin -o $@ $(SCHEMATICS_PDF)
+	pdfunite $(SCHEMATICS_PDF) $@
 
 $(PROJECT)-pcb.ps:	$(PROJECT).pcb $(CONFIG)
 	pcb -x ps --psfile $@ --media Letter --ps-color $(PROJECT).pcb
